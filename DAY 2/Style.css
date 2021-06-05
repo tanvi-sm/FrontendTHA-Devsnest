@@ -1,1 +1,19 @@
+h1 {
+    background-color: #fefbd8;
+}
+
+.from {
+    background-color: hsla(89, 43%, 51%, 0.3);
+    text-align: left;
+}
+
+.to {
+    background-color:hsla(89, 43%, 51%, 0.3);
+    text-align: left;
+}
+
+body {
+    background: hsla(89, 43%, 51%, 0.3);;
+    text-align: left;
+}
 
