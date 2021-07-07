@@ -1,13 +1,12 @@
 import React from 'react';
-import Chess from "./Chess"
-import './App.css';
+import "./App.css";
+import Card from './Card';
 
 function App() {
   return (
     <div className="App">
-      <h1>CHESS GAME</h1>
-     <Chess />
-     {/* <Chess /> */}
+      <h1 className="heading">MEME CARD</h1>
+        <Card />
     </div>
   );
 }
