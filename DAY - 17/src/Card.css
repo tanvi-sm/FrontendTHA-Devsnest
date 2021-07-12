@@ -1,0 +1,16 @@
+.Card{
+    border: 2px solid rgb(109, 95, 230);
+    width: 300px;
+    height: 80px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 12px;
+    border-radius: 10px 10px;
+    margin-right: 100px;
+    background: rgba(8, 233, 195, 0.2);
+box-shadow: 0 6px 20px 0 rgba(35, 93, 107, 0.37);
+
+border-radius: 5px;
+border: 1px solid rgba(10, 73, 168, 0.18);
+}
